@@ -34,7 +34,3 @@ int main(UNUSED int argc, UNUSED char *argv[]) {
 	sl->destroy(sl);
 	return EXIT_SUCCESS;
 }
-
-
-		
-
